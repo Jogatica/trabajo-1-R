@@ -8,7 +8,7 @@ link-citations: true
 
 ## Trabajo 1 R
 
-### **Por Josefa Gatica V.**
+#### **Por Josefa Gatica V.**
 
 El envejecimiento poblacional es un fenómeno mundial, esto trae consigo, distintas consecuencias. En el caso de América Latina, especialmente en Chile, tiene incentivos con el efecto contrario, como el bono por hijo; a través de ChileAtiende. En Italia, ofrece a la población joven habitar zonas despobladas con facilidades de acceso a trabajo, casa y un grado de bonificación monetaria.
 
